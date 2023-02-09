@@ -4,8 +4,6 @@
 
 🔭 I’m currently working on building my first webpage using HTML and CSS.
 
-🤔 I’m looking for help with 
-💬 Ask me about 
 📫 How to reach me:
-😄 Pronouns: ...
+
 ⚡ Fun fact: 
